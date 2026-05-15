@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-Buka [http://localhost:3000](http://localhost:3000) di browser.
+Buka [http://localhost:3002](http://localhost:3002) di browser.
 
 ## Tech Stack
 
